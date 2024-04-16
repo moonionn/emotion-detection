@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d25cbd71-937c-40d7-991d-c6c3a74331b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/emotion-detection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/train.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/val.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/preprocessing.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/txtTOcsv.ipynb" afterDir="false" />
+    <list default="true" id="d25cbd71-937c-40d7-991d-c6c3a74331b1" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/LSTM-glove.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LSTM-glove.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +22,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -85,11 +79,71 @@
       <workItem from="1713209122095" duration="3861000" />
       <workItem from="1713213868615" duration="4454000" />
       <workItem from="1713256809694" duration="33000" />
-      <workItem from="1713256846533" duration="5078000" />
+      <workItem from="1713256846533" duration="15213000" />
     </task>
+    <task id="LOCAL-00001" summary="done LSTM model">
+      <option name="closed" value="true" />
+      <created>1713284966690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713284966690</updated>
+    </task>
+    <task id="LOCAL-00002" summary="rename">
+      <option name="closed" value="true" />
+      <created>1713285041621</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713285041621</updated>
+    </task>
+    <task id="LOCAL-00003" summary="finish LSTMmodelTrain.ipynb">
+      <option name="closed" value="true" />
+      <created>1713293381020</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713293381020</updated>
+    </task>
+    <task id="LOCAL-00004" summary="upload GloVe glove.6B.100d.txt">
+      <option name="closed" value="true" />
+      <created>1713293411761</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713293411761</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <option name="closed" value="true" />
+      <created>1713294420636</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713294420636</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done LSTM model" />
+    <MESSAGE value="rename" />
+    <MESSAGE value="finish LSTMmodelTrain.ipynb" />
+    <MESSAGE value="upload GloVe glove.6B.100d.txt" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
